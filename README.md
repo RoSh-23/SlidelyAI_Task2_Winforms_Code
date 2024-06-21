@@ -29,6 +29,7 @@ Hi Slidely team, this repository contains my code for the WinForms part of the t
     - Github Link: Should start with https://github.com/
 2. All the keyboard shortcuts work.
 3. When using CTRL + T for toggling the stopwatch, a bell sound comes which I was not able to remove, but it still works.
+4. Editable fields are name, email, phone num and github link, the stopwatch time is not editable.
 
 ## Description/Features
 1. Tried to use exception handling as and when required.
