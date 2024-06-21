@@ -15,6 +15,11 @@ Hi Slidely team, this repository contains my code for the WinForms part of the t
 + .NET Version: 4.5
 
 ## How to Run
+- Go to Visual Studio
+- Click on Clone a Repository
+    - Enter the https url of this repo: https://github.com/RoSh-23/SlidelyAI_Task2_Winforms_Code.git
+- Install the Newtonsoft.json package if required
+- Run the Slidely_AI_Task_2_Google_Forms.sln solution file
 
 ## Points to remember
 1. In the submission form for new records some fields are being validated using regexes, you will be prompted when entering invalid data regarding the valid format but still explaining here:
@@ -27,5 +32,17 @@ Hi Slidely team, this repository contains my code for the WinForms part of the t
 
 ## Description/Features
 1. Tried to use exception handling as and when required.
+2. Features:
+    + Compulsory:
+        - View submissions
+        - Create new submission
+        - stopwatch toggle and not reset
+        - shortcuts
+    + Optional:
+        - edit submission
+        - delete submission
 
 ## Screenshots
+![First Window](assets/images/S1.png)
+![Form View Window](assets/images/S2.png)
+![Create New Form Window](assets/images/S3.png)
